@@ -25,6 +25,8 @@ Functional Requirements:
 
 1)Registration.
 
+2)Storing information.
+
 2)Accessing information of client.
 
 
