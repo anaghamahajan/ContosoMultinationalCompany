@@ -1,0 +1,37 @@
+Problem Statement:
+
+1)Contoso is multinational company required to build a host website to access the account information of Corporate customers.
+
+2)For this purpose we have to gather all the functional and non-functional requirements related to the requirement.
+
+3)For this requirement we need to identify the entities required to make this Website.
+
+4)According to the problem definition there are two entities required for this problem statement, on is Employee and another is Corporate Customer.
+
+5)We have to gather all the personal information as well as accounting information of Corporate Customer.
+
+6)As well as we have to store this information about Corporate Customer.
+
+7)We also store information about employees of company who can access this information.
+
+8)This information about Corporate Customer is only accessible to the only employees of the Comtoso Company.
+
+9)According to the problem definition we gather all information about the entities and make its use case diagram to understand the flow of our application.
+
+10)We need to identify all the functionalities of entities and according to the functionalities need to create our application.
+
+
+Functional Requirements:
+
+1)Registration.
+
+2)Accessing information of client.
+
+
+Non-functional Requirements:
+
+1)Security.
+
+2)Authentication.
+
+3)Authorization.
